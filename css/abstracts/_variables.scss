@@ -1,0 +1,12 @@
+// $background_color:#FF595E;
+$red:#FF595E;
+$blue:#4A90E2;
+$yellow:#F9CB40;
+
+$cursors: pointer auto inherit;
+
+$theme-color:(
+    "primary":$red,
+    "secondary": $blue,
+    "warning": $yellow,
+)

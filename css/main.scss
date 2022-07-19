@@ -1,0 +1,22 @@
+
+/* Table of Contents
+---------------------------------------------------------------------------
+--base imports
+--component imports
+-- layout imports
+*/
+/* base imports */
+@use './base/resets';
+@use './base/typography';
+
+/* Component imports */
+@use './components/buttons'; 
+@use './components/hero';
+@use './components/navbar';
+@use './components/reasons';
+
+
+/*layout imports */ 
+@use './layouts/layout';
+@use './layouts/footer';
+
